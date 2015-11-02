@@ -2,6 +2,6 @@
   "name": "SparkFunSX1509",
   "author": "SparkFun Electronics (Ported by John Vidler)",
   "license": "MIT",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Arduino library and hardware files for the SX1509 IO Expander Breakout board."
 }
