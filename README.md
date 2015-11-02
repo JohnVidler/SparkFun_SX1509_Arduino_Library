@@ -1,6 +1,8 @@
 SparkFun SX1509 IO Expander Breakout Arduino Library
 ========================================
 
+(Ported to the Particle format by John Vidler)
+
 [![SparkFun SX1509 IO Expander Breakout](https://cdn.sparkfun.com//assets/parts/1/0/9/5/6/13601-01.jpg)](https://www.sparkfun.com/products/13601)
 
 [*SparkFun SX1509 IO Expander Breakout (SKU)*](https://www.sparkfun.com/products/13601)
