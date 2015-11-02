@@ -23,7 +23,7 @@ Distributed as-is; no warranty is given.
 ******************************************************************************/
 
 #include <Wire.h>
-#include "Arduino.h"
+#include "Particle.h"
 #include "SparkFunSX1509.h"
 #include "util/sx1509_registers.h"
 
